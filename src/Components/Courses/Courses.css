@@ -1,0 +1,21 @@
+.course-box{
+    margin-bottom: 20px;
+    float: left;
+    width: 300px;
+    margin-left: 80px;
+}
+
+.course-details{
+    border: 1px solid lightgray;
+    padding: 0;
+    line-height: 17px;
+}
+
+.enroll{
+    margin-top: 0;
+    background-color: #a435f0;
+    width: 100px;
+    color: white;
+    border: white;
+    cursor: pointer;
+}

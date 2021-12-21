@@ -1,0 +1,14 @@
+.content-container{
+    display: flex;
+}
+
+.course-container{
+    padding: 20px;
+    height: 100%;
+    width: 80%;
+}
+
+.cart-container{
+    width: 20%;
+    padding: 20px;
+}
